@@ -1,0 +1,2 @@
+20221226	13:12:36	4eb57429-5c05-4525-85be-7ea06da3e079	Error: not allowed by CORS
+20221226	16:56:06	0d209365-5f84-444e-8a54-d33f879d1fcc	TypeError: req.json is not a function
